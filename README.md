@@ -8,7 +8,7 @@ WORK IN PROGRESS - Currently list patches installed via pacman -Q. Next step is 
 
 #Usage
 
-python tracker.py
+tracker.py
 
 #Roadmap
 - Fetch advisory data from Arch Security tracker
